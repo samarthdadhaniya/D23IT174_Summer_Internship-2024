@@ -1,6 +1,5 @@
 
 # Summer Internship Daily Work
----------------------------------
 
 ## Overview
 This document outlines the daily tasks and progress during my summer internship. The focus is on designing user interfaces, enhancing React skills, and learning Data Structures and Algorithms (DSA).
@@ -12,51 +11,63 @@ This document outlines the daily tasks and progress during my summer internship.
 - **UI Design:** Created the user interface for the affiliate and privacy policy pages.
 - **React Learning:** Enhanced understanding of React concepts.
 
+
 ### Date: 30-05-2024
 **Task:**
 - **Checkout Pages Design:** Designed multiple checkout pages for the company's website.
+
 
 ### Date: 31-05-2024
 **Task:**
 - **Checkout Page Continuation:** Continued with the checkout page design.
 - **DSA Learning:** Started learning some DSA concepts.
 
+
 ### Date: 01-06-2024
 **Task:**
 - **Off Day:** Saturday.
+
 
 ### Date: 02-06-2024
 **Task:**
 - **Off Day and Learning:** Sunday off day and learned new React concepts.
 
+
 ### Date: 03-06-2024
 **Task:**
 - **React Learning:** Continued learning new things in React.
+
 
 ### Date: 04-06-2024
 **Task:**
 - **UI Design for User Panel:** Started UI design for the User Panel.
 - **React Learning:** Continued learning new things in React.
 
+
 ### Date: 05-06-2024
 **Task:**
 - **UI Design Continuation:** Continued UI design for the User Panel.
+
 
 ### Date: 06-06-2024
 **Task:**
 - **Domains and Billing Sections Design:** Designed Domains and Billing Sections for the User Panel.
 
+
 ### Date: 07-06-2024
 **Task:**
 - **Affiliate and Announcements Page Design:** Designed Affiliate and Announcements Page for the User Panel.
+
 
 ### Date: 08-06-2024
 **Task:**
 - **Off Day:** 
 
+
 ### Date: 09-06-2024
 **Task:**
 - **Off Day:** 
+
 
 ### Date: 10-06-2024 to 12-06-2024
 **Task:**
